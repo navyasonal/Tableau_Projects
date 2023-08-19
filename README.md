@@ -1,3 +1,3 @@
 # Tableau_Projects
 
-Road Accident Dashboard is Tableau project that give useful insights from Accidental data and prsents it in the form of interactive dashboard using various graphical represntation tools.
+The Road Accident Dashboard is a Tableau project that uses a variety of visualisation techniques to draw meaningful conclusions from accident data in the form of an interactive dashboard.
